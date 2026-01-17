@@ -26,7 +26,7 @@ I enjoy working close to hardware, writing efficient low-level code, and designi
 **[Robot Arm 2](https://github.com/WiktorPWR/Robot-Arm-2)**  
 Embedded-controlled robotic arm project combining mechanics, electronics, and control algorithms.
 
-**[Smart Smokehouse](https://github.com/272510-2023/smart_wedzarnia)**  
+**[Smart Smokehouse](https://github.com/WiktorPWR/smart_wedzarnia.git)**  
 IoT-based automation system for temperature monitoring and process control.
 
 **[Modbus TCP/IP Implementation](https://github.com/WiktorPWR/Modbus-TCP-IP)**  
