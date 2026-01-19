@@ -1,7 +1,7 @@
-# Hi 👋 I'm Wiktor
+# Hi  I'm Wiktor
 
-🎓 **Student of Wrocław University of Science and Technology**  
-📚 Major: **IT Automation Systems**
+**Student of Wrocław University of Science and Technology**  
+Major: **IT Automation Systems**
 
 I'm an engineering-oriented IT student focused on **embedded systems, automation, and robotics**.  
 I enjoy working close to hardware, writing efficient low-level code, and designing control systems.
@@ -38,31 +38,31 @@ Reimplementation of the Google Chrome Dino game running on an STM32 microcontrol
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
-### 💻 Programming Languages
+###  Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔌 Embedded & Automation
+###  Embedded & Automation
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
 ![Modbus](https://img.shields.io/badge/Modbus-003A8F?style=for-the-badge)
 
-### 🧠 Engineering & Tools
+###  Engineering & Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 **Email:** ostrowskiwiktor9@gmail.com  
-💼 **LinkedIn** (https://www.linkedin.com/in/wiktor-jankowski-ostrowski-950126291/)
+ **Email:** ostrowskiwiktor9@gmail.com  
+ **LinkedIn** (https://www.linkedin.com/in/wiktor-jankowski-ostrowski-950126291/)
 
 ---
 
-⭐ Always interested in embedded systems, automation projects, and engineering challenges.
+ Always interested in embedded systems, automation projects, and engineering challenges and beer of course.
